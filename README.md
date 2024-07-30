@@ -1,2 +1,3 @@
-# nn_from_scratch
-Neural network from scratch from a logistics regression perspective.
+# Transfer learning with self supervised SimCLR pretraining
+Applied on the flower datasets
+
